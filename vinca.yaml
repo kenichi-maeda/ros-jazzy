@@ -118,6 +118,27 @@ packages_select_by_deps:
   - autoware_sensing_msgs
   - autoware_system_msgs
   - autoware_v2x_msgs
+
+  # requested in https://github.com/RoboStack/ros-humble/issues/352
+  - lbr_bringup
+  - lbr_demos_advanced_cpp
+  - lbr_demos_advanced_py
+  - lbr_demos_cpp
+  - lbr_demos_py
+  - lbr_moveit
+  - lbr_moveit_cpp
+  - lbr_description
+  - lbr_fri_ros2
+  - lbr_fri_ros2_stack
+  - iiwa14_moveit_config
+  - iiwa7_moveit_config
+  - med14_moveit_config
+  - med7_moveit_config
+  - lbr_ros2_control
+  - lbr_fri_idl
+  - fri_client_sdk
+  - kinematics_interface
+  - kinematics_interface_kdl
   - autoware_vehicle_msgs
   - autoware_cmake
   - autoware_utils

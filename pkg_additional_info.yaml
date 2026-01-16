@@ -159,3 +159,7 @@ robot_state_publisher:
   build_number: 13
 rclpy:
   build_number: 13
+kinematics_interface:
+  build_number: 14
+kinematics_interface_kdl:
+  build_number: 14
